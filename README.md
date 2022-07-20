@@ -46,5 +46,5 @@ _Deployment Link:_
 ## Author
 
 - _Name:_ Theophilus Gordon
-- _GitHub:_ <https://github.com/theophilusgordon>
-- _Email:_ theophilusgordon@yahoo.com
+- _GitHub:_ <https://github.com/gordontheophilus>
+- _Email:_ theophilus.gordon@amalitech.org
